@@ -171,6 +171,16 @@ function endQuiz() {
         localStorage.setItem(userName, score);
         
     })
+    // var playAgain = document.createElement("button");
+    // playAgain.setAttribute("class", "btn btn-primary");
+    // playAgain.textContent = "Play Again?";
+    // mainEl.appendChild(playAgain);
+    // playAgain.addEventListener("click", function() {
+    //     i = 0;
+    //     score = 0;
+    //     totalTime = 60;
+    //     startQuiz(i)
+    // })
 }
 
 

@@ -3,4 +3,4 @@ This program allows the user to take a simple quiz based on video game knowledge
 
 The program begins with a click on the "Go!" button. Classes are called based on the conditions met - either a click, timeout, or reaching the end of the question array. 
 
-Most of the html is written/created in the script.js file as sections must be hidden/written based on click or game events. 
+Most of the html is written/created in the script.js file as sections must be hidden/written based on click or game events. Ideally, a style.css file would fixed the spacing and add some color to the page. This is a project for when I have more time.
